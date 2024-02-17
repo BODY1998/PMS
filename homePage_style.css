@@ -76,3 +76,6 @@ table th {
 th,td{
   padding: 5px;
 }
+table button{
+  padding: 4px;
+}
