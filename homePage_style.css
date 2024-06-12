@@ -56,7 +56,10 @@ button {
 button:hover {
   background: rgba(90, 5, 247, 0.946);
   letter-spacing: 0.5px;
-  transform: scale(1.02);
+  transform: scale(1.0);
+}
+#deleteAll {
+  margin: 10px 0px;
 }
 .btnSearch {
   display: flex;
@@ -73,9 +76,10 @@ table {
 table th {
   text-transform: uppercase;
 }
-th,td{
+th,
+td {
   padding: 5px;
 }
-table button{
+table button {
   padding: 4px;
 }
